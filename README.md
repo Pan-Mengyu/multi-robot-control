@@ -1,6 +1,6 @@
 # multi-robot-control
 
-## Multiple robots control
+## Multiple robots and drones control with obstacle avoidance
 
 [readme](https://github.com/SummerOf15/multi-robot-control/blob/main/multi-robot/ReadMe.md)
 
